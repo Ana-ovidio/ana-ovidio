@@ -1,9 +1,8 @@
 ### Hi, I am Ana Carolina Ovídio
 
 
-- 🔭 I’m currently working on BackEnd and FrontEnd 
-- 🌱 I’m currently learning Modeling Systems and Data Analysis
-- 📫 How to reach me: anacarolina.ovidio@estudante.ufjf.br
+-I’m currently working on BackEnd and FrontEnd 
+- I’m currently learning Modeling Systems and Data Analysis
 - 😄 Pronouns: she/her
 
 <div align="center">
@@ -21,8 +20,13 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Rafa-Django" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg">
    <img align="center" alt="Rafa-Django" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg">
+    <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/941133123121455106/941355482407391292/ezgif.com-gif-maker.gif?width=507&height=507">
+   
+   
 </div>
   
+    
+    
   ##
   <div> 
   <a href = "mailto: anacarolina.ovidio@estudante.ufjf.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
