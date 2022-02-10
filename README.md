@@ -31,6 +31,8 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-  ##  
-  <br></br>
+  
+    
+ <br></br>
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ana-ovidio&langs_count=6&hide=TeXt&hide_border=true&theme=tokyonight)
